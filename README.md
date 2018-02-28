@@ -1,1 +1,1 @@
-# hypervelocity_external
+# faststars_external
