@@ -1,0 +1,29 @@
+{
+    "D6-1.dat":{
+        "name":"D6-1",
+        "date":"2018/04/25",
+        "bibcode":"2018arXiv180411163S",
+        "observer":"Marissa Kotze",
+        "instrument":"RSS",
+        "telescope":"Southern African Large Telescope",
+        "yunit":"erg/s/cm^2/Angstrom"
+    },
+    "D6-2.dat":{
+        "name":"D6-2",
+        "date":"2018/04/25",
+        "bibcode":"2018arXiv180411163S",
+        "observer":"Mariusz Gromadzki",
+        "instrument":"ALFOSC",
+        "telescope":"Nordic Optical Telescope",
+        "yunit":"erg/s/cm^2/Angstrom"
+    },
+    "D6-3.dat":{
+        "name":"D6-3",
+        "date":"2018/04/25",
+        "bibcode":"2018arXiv180411163S",
+        "observer":"Mariusz Gromadzki",
+        "instrument":"ALFOSC",
+        "telescope":"Nordic Optical Telescope",
+        "yunit":"erg/s/cm^2/Angstrom"
+    }
+}
