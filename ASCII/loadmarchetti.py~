@@ -1,5 +1,0 @@
-from astropy.io.ascii import read
-
-data = read("./marchetti,txt", format='fwf')
-for row in pbar(data, task_str):
-    oname = 'SDSS'+str(row['SDSS'])
