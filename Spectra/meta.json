@@ -25,5 +25,14 @@
         "instrument":"ALFOSC",
         "telescope":"Nordic Optical Telescope",
         "yunit":"erg/s/cm^2/Angstrom"
+    },
+    "J01020100-7122208.dat":{
+        "name":"J01020100-7122208",
+        "date":"2017/12/31",
+        "bibcode":"2018AJ....155..207N",
+        "observer":"P. Massey",
+        "instrument":"MagE",
+        "telescope":"Baade_Mag_1",
+        "yunit":"erg/s/cm^2/Angstrom"
     }
 }
