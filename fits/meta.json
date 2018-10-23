@@ -1,0 +1,21 @@
+{
+    "J01020100-7122208.fits":{
+        "name":"J01020100-7122208",
+        "date":"2017/12/31",
+        "bibcode":"2018AJ....155..207N",
+        "observer":"P. Massey",
+        "instrument":"MagE",
+        "telescope":"Baade_Mag_1",
+        "yunit":"erg/s/cm^2/Angstrom"
+    },
+    "lamost-hvs1-norm.fits":{
+        "name":"LAMOST-HVS1",
+        "date":"2018/01/12",
+        "bibcode":"2018arXiv181002029H",
+        "observer":"MagInst",
+        "instrument":"MIKE-Blue/MIKE-Red",
+        "telescope":"Clay_Mag_2",
+        "yunit":"erg/s/cm^2/Angstrom",
+        "mjd":"58130.299942129626"
+    }
+}
